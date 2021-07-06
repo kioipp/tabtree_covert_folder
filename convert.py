@@ -3,7 +3,6 @@
 #
 
 import re
-from itertools import product
 
 
 class PathStructer(object):
